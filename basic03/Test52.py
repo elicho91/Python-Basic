@@ -43,4 +43,3 @@ with open('testCSV01.csv', 'r', encoding='utf-8') as csv_reader:
         print(row)
         print(row['이름'], row['나이'])
 
-        4444
