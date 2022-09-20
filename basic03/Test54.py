@@ -121,3 +121,5 @@ map.save('trafficMapResult.html') # 저장
 # 대한민국 중심좌표 : 36.2002, 127.054
 # 서울 중심좌표 : 37.541, 126.986
 
+folium.LayerControl().add_to(map)
+map.save('trafficMapResult.html') # 저장
